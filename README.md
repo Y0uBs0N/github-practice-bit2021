@@ -35,3 +35,4 @@
 |04|axeljoachimzongo   | none     | axelnig |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 
 |05|KABORE W FLORENTIN   | none     | florentink|<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 
 |06|Yameogo Philippe   | none     | philippe9-coder |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 
+|07|Bakouan Youba   | none     | Y0uBs0N |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 
